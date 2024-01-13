@@ -1,0 +1,14 @@
+.row{
+    display: flex;
+    margin: 100px;
+    padding:70px 80px;
+    
+}
+.col-1{
+    width: auto ;
+}
+.col-2{
+    width: 320px;
+    padding: 40px 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
